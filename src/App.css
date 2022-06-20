@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(204, 191, 215);
+}
+h1{
+    font-weight: lighter;
+    text-align: center;
+    color: gray;
+}
+button{
+    background-color: rgb(209, 250, 236);
+    border: solid cadetblue;
+    border-radius: 6px;
+    padding: 10px;
+    margin-left: 450px;
+    color: black;
+}
+img{
+    margin-top: 70px;
+    border: solid cadetblue;
+    border-radius: 10px;
+}
+
